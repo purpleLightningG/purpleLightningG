@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purpleLightningG
-- 👀 I’m interested in Machine Learning, Deep Learning and Robotics
+- 👀 I’m interested in Computer Vision, Deep Learning and Robotics
 - 🌱 I’m currently working in sensor network fusion and computer vision, and seeking internships in these field 
 - Website - https://purplelightningg.github.io/portfolio-website/
 <!---
