@@ -1,7 +1,7 @@
 # Shahriar Hossain
 
 PhD Student in Computer Science  
-Robotics | Multimodal Perception | LiDAR–Camera Fusion  
+Robotics | Perception | LiDAR–Camera Fusion  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=purpleLightningG&hide_border=true)
 
