@@ -3,7 +3,6 @@
 PhD Student in Computer Science  
 Robotics | Perception | LiDAR–Camera Fusion  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=purpleLightningG&hide_border=true)
 
 I build real-time perception and sensor fusion systems for robotics and autonomous platforms.  
 My research focuses on geometric reasoning, multimodal learning, and 3D scene understanding using LiDAR, RGB-D, and inertial data.
@@ -63,6 +62,7 @@ Unsupervised pseudo-label generation and refinement for 3D vehicle detection.
 Clean implementations of A*, RRT, RRT*, and dynamic replanning methods with visualization and benchmarking.
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=purpleLightningG&hide_border=true)
 
 ## Research Philosophy
 
