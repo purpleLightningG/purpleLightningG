@@ -10,7 +10,6 @@ I build real-time perception and sensor fusion systems for robotics and autonomo
 
 ## Current Work
 
-- Geometry-guided diffusion for point cloud completion  
 - LiDAR-based self-training pipelines for 3D detection  
 - Temporal RGB-D transformer models for robotic manipulation understanding  
 - Real-time calibration-aware multimodal perception systems  
@@ -24,5 +23,3 @@ Summer 2026 internships in:
 - Autonomous systems  
 - Sensor fusion  
 - 3D scene understanding  
-- Real-time AI systems  
-
