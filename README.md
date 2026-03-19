@@ -26,10 +26,3 @@ Summer 2026 internships in:
 - 3D scene understanding  
 - Real-time AI systems  
 
----
-
-## Contact
-
-- LinkedIn: [shahriar-hossain](https://www.linkedin.com/in/shahriar-hossain-a78258135/)
-- Google Scholar: [Scholar Profile](https://scholar.google.com/citations?user=UL1s_poAAAAJ&hl=en)
-- Email: [shossa4@gmu.edu](mailto:shossa4@gmu.edu)
