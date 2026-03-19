@@ -1,24 +1,10 @@
 # Shahriar Hossain
 
-PhD Student in Computer Science  
+PhD Student in Computer Science at George Mason University
 Robotics | Perception | LiDAR–Camera Fusion  
 
 
-I build real-time perception and sensor fusion systems for robotics and autonomous platforms.  
-My research focuses on geometric reasoning, multimodal learning, and 3D scene understanding using LiDAR, RGB-D, and inertial data.
-
-I am particularly interested in bridging mathematically grounded state estimation with modern deep learning systems for deployable robotics.
-
----
-
-## Research Focus
-
-- 3D Object Detection & Segmentation  
-- LiDAR–Camera Fusion & State Estimation  
-- Multimodal Transformers (Vision + Geometry)  
-- Bird’s Eye View (BEV) Representations  
-- Geometric Deep Learning  
-- Robotics Perception for Autonomous Systems  
+I build real-time perception and sensor fusion systems for robotics and autonomous platforms. My research focuses on geometric reasoning, multimodal learning, and 3D scene understanding using LiDAR, RGB-D, and inertial data. I am particularly interested in bridging mathematically grounded state estimation with modern deep learning systems for deployable robotics.
 
 ---
 
@@ -28,54 +14,9 @@ I am particularly interested in bridging mathematically grounded state estimatio
 - LiDAR-based self-training pipelines for 3D detection  
 - Temporal RGB-D transformer models for robotic manipulation understanding  
 - Real-time calibration-aware multimodal perception systems  
-
----
-
-## Technical Stack
-
-### Languages
-Python · C++ · ROS1 · Bash  
-
-### Robotics & 3D
-ROS · Open3D · PCL · RViz · OpenPCDet · PointNet++  
-
-### Deep Learning
-PyTorch · Vision Transformers · Diffusion Models · BEV-based detection  
-
-### Systems
-Linux · Git · Docker · Conda · CUDA  
-
----
-
-## Selected Projects
-
-### LiDAR-Camera Calibration Toolkit
-Geometric calibration framework for extrinsic estimation between LiDAR and RGB sensors, including reprojection validation and visualization tools.
-
-### Geometry-Guided Diffusion for Point Cloud Completion
-Structured diffusion model using per-point geometric priors for improved 3D reconstruction.
-
-### LiDAR-Based Self-Training Pipeline
-Unsupervised pseudo-label generation and refinement for 3D vehicle detection.
-
-### Robotics Path Planning (In Progress)
-Clean implementations of A*, RRT, RRT*, and dynamic replanning methods with visualization and benchmarking.
-
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=purpleLightningG&hide_border=true)
 
-## Research Philosophy
-
-I care about:
-
-- Clean geometric reasoning  
-- Stable state estimation  
-- Reproducible research pipelines  
-- Code that is readable, modular, and extensible  
-
-My goal is to design perception systems that are both theoretically principled and practically deployable.
-
----
 
 ## Currently Seeking
 
@@ -88,8 +29,6 @@ Summer 2026 internships in:
 - Real-time AI systems  
 
 ---
-
-## Contact
 
 ## Contact
 
